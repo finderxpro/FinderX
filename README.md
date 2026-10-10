@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="assets/finderx-icon.png" alt="FinderX radar network icon" width="112" />
+  <img src="assets/finderx-icon.png" alt="FinderX icon" width="112" />
   <h1>FinderX</h1>
   <p><strong>Advanced Network Recon &amp; CDN Hunter for Termux</strong></p>
   <p>Terminal-based network discovery and diagnostics for Android users.</p>
-  <img src="assets/finderx-banner.png" alt="FinderX neon radar and network illustration" width="100%" />
+  <img src="assets/finderx-banner.png" alt="FinderX Theme" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Android-00bce5?style=flat-square" alt="Platform: Termux and Android" />
-  <img src="https://img.shields.io/badge/Language-Python-3478c8?style=flat-square" alt="Language: Python" />
-  <img src="https://img.shields.io/badge/Use-Authorized%20testing-only-d946ef?style=flat-square" alt="Authorized testing only" />
+  <img src="https://github.com/finderxpro/FinderX/blob/main/assest/finderx-banner.png" alt="Platform: Termux and Android" />
+  <img src="https://github.com/finderxpro/FinderX/blob/main/assest/finderx-icon.png" alt="Language: Python" />
+  <img src="https://github.com/finderxpro/FinderX/blob/main/assest/finderx-terminal.png" alt="Authorized testing only" />
 </p>
 
 > **Authorization required:** Only scan systems and networks that you own or have explicit permission to test.
